@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Leting Zhang, I am an PhD candidate in Management Information Systems prgoram, Temple University. 
+
+- 🔭 I’m currently working on my dissertation. 
+- 🌱 I’m currently learning NLP. 
+- ⚡ Fun fact: I built a factory. The goal is to built a [Dyson sphere](https://en.wikipedia.org/wiki/Dyson_sphere).
+
 <!--
 **letingz/letingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
