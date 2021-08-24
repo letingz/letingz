@@ -2,9 +2,9 @@
 
 My name is Leting Zhang, I am an PhD candidate in Management Information Systems prgoram, Temple University. 
 
-- 🔭 I’m currently working on my dissertation. 
-- 🌱 I’m currently learning NLP. 
-- ⚡ Fun fact: I have been desining numerous pipelines to collect planet resources, and the ultimate goal is to built a [Dyson sphere](https://en.wikipedia.org/wiki/Dyson_sphere).
+- 🔭 I’m currently working on my dissertation - Thress Essays on Economics of Information Security . 
+- 🌱 I’m currently learning NLP to understand how public firms disclose their cyber risks. 
+- ⚡ Fun fact: To built a [Dyson sphere](https://en.wikipedia.org/wiki/Dyson_sphere), I have been desining numerous pipelines to collect planet resources and starting to realize how complex logistics could be. Thanks, [Dyson Sphere Program](https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/). 
 
 <!--
 **letingz/letingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
