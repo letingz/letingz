@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Leting Zhang, I am an PhD candidate in Management Information Systems prgoram, Temple University. 
+My name is Leting Zhang, I am an PhD candidate in Management Information Systems program, Temple University. 
 
 - 🔭 I’m currently working on my dissertation - Thress Essays on Economics of Information Security . 
 - 🌱 I’m currently learning NLP to understand how public firms disclose their cyber risks. 
