@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 My name is Leting Zhang, I am a PhD candidate in Management Information Systems program, Temple University. 
-
-- 🔭 I’m currently working on my dissertation - Thress Essays on the Economics of Information Security . 
+ 
 - 🌱 I’m currently learning NLP to understand how public firms disclose their cyber risks. 
 - ⚡ Fun fact: A gamer. Recent recommendation: [Dyson Sphere Program](https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/).
      - One sentence description: _It shows me how marlevous our universe is and how complex logistics could be..._
