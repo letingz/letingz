@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-My name is Leting Zhang, I am a PhD candidate in Management Information Systems program, Temple University. 
  
 - 🌱 I’m currently learning NLP to understand how public firms disclose their cyber risks. 
 - ⚡ Fun fact: A gamer. Recent recommendation: [Dyson Sphere Program](https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/).
