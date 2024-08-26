@@ -1,8 +1,8 @@
 ### Hi there 👋
  
-- 🌱 I’m currently learning NLP to understand how public firms disclose their cyber risks. 
+- 🌱 I’m working on studies on 1. healthcare and 2. privacy. 
 - ⚡ Fun fact: A gamer. Recent recommendation: [Dyson Sphere Program](https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/).
-     - One sentence description: _It shows me how marlevous our universe is and how complex logistics could be..._
+     - One sentence description: _It shows me how marvelous our universe is and how complex logistics could be..._
 <!--
 **letingz/letingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
