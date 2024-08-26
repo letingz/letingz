@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-- 🌱 I’m working on studies on 1. healthcare and 2. privacy. 
+- 🌱 I’m currently working on studies in healthcare and privacy. 
 - ⚡ Fun fact: A gamer. Recent recommendation: [Dyson Sphere Program](https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/).
      - One sentence description: _It shows me how marvelous our universe is and how complex logistics could be..._
 <!--
